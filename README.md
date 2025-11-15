@@ -1,7 +1,7 @@
 
 # Telegram 管理员转发与防骚扰机器人
 
-本项目基于 ![Tsaihyun/hyunbot](https://github.com/Tsaihyun/hyunbot) 修改
+本项目基于 [Tsaihyun/hyunbot](https://github.com/Tsaihyun/hyunbot) 修改
 - 增加人机验证问题，回答正确才可继续聊天
 - 去除 /start 后的中英文欢迎语
 
