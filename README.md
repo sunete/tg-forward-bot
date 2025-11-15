@@ -1,8 +1,9 @@
 
-# 🤖 HyunBot - Telegram 管理员转发与防骚扰机器人
+# Telegram 管理员转发与防骚扰机器人
 
-HyunBot 是一个基于 Cloudflare Workers 构建的 Telegram 中转机器人，
-支持自动消息转发、管理员回复、屏蔽机制、人机验证、关键词拦截、以及远程拦截词表同步。
+本项目基于 ![Tsaihyun/hyunbot](https://github.com/Tsaihyun/hyunbot) 修改
+- 增加人机验证问题，回答正确才可继续聊天
+- 去除 /start 后的中英文欢迎语
 
 ---
 
